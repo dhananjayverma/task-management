@@ -30,8 +30,8 @@ A backend API for managing tasks with secure authentication, user role managemen
 
 ### Prerequisites
 
-- Node.js (v16.x or higher)
-- MongoDB (local or cloud instance)
+- Node.js
+- MongoDB
 - Postman or any other API client
 
 ### Installation
